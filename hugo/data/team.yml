@@ -1,44 +1,93 @@
 enable  : true
 title   : Team that makes the difference.
 members  :
-  - image       : images/team/指导老师-杨峥.jpg
-    name        : PABLO ESCOBAR
-    designation : Creative Director
+  - image       : images/team/指导老师-杨铮.jpg
+    name        : 杨峥
+    designation : 指导老师
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-two.jpg
-    name        : MONTINO RIAU
-    designation : Product Manager
+  - image       : images/team/指导老师-马强.jpg
+    name        : 马强
+    designation : 指导老师
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-three.jpg
-    name        : ALEX NAASRI
-    designation : Chief Design Officer
+  - image       : images/team/王需.jpg
+    name        : 王需
+    designation : Leader
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-four.jpg
-    name        : HONGMAN CHIOA
-    designation : UX Researcher
+  - image       : images/team/曹昊.jpg
+    name        : 曹昊
+    designation : 前端指导
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-five.jpg
-    name        : SANTIO ANDRESS
-    designation : Content Researcher
+  - image       : images/team/吴家行.jpg
+    name        : 吴家行
+    designation : 前端
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-six.jpg
-    name        : RAMESH PAUL
-    designation : Creative Designer
+  - image       : images/team/邓坤恬.jpg
+    name        : 邓坤恬
+    designation : 前端
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/胡哲.jpg
+    name        : 胡哲
+    designation : 后端
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/    
+
+  - image       : images/team/金昕祺.jpg
+    name        : 金昕祺
+    designation : 后端
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/贺骁武.jpg
+    name        : 贺骁武
+    designation : 算法
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/苑昊.png
+    name        : 苑昊
+    designation : 算法
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/甘茂霖.jpg
+    name        : 甘茂霖
+    designation : 产品设计
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/叶舒.jpg
+    name        : 叶舒
+    designation : UI设计
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/黄可宏.jpg
+    name        : 黄可宏
+    designation : 测试优化
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
