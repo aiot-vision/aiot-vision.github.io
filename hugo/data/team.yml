@@ -2,7 +2,7 @@ enable  : true
 title   : Team that makes the difference.
 members  :
   - image       : images/team/指导老师-杨铮.jpg
-    name        : 杨峥
+    name        : 杨铮
     designation : 指导老师
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
@@ -21,6 +21,13 @@ members  :
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+
+  - image       : images/team/宋佩茜.jpg
+    name        : 宋佩茜
+    designation : UI顾问
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/  
 
   - image       : images/team/曹昊.jpg
     name        : 曹昊
